@@ -17,7 +17,7 @@
 
 [Задание №2.2](https://github.com/Filyuchkova/Filyuchkova.github.io/blob/master/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%E2%84%962.2.docx)
 
-[Задание №3](https://github.com/Filyuchkova/Filyuchkova.github.io/blob/master/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%E2%84%963.docx)
+[Задание №3](https://github.com/Filyuchkova/filyuchkova.github.io/blob/master/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%203.docx)
 
 [Задание №4.1](https://github.com/Filyuchkova/Filyuchkova.github.io/blob/master/Задание%20№4.1.docx)
 
