@@ -51,3 +51,5 @@
 
 [Задание №11.2](https://github.com/Filyuchkova/filyuchkova.github.io/blob/master/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%E2%84%9611.2.docx)
 
+[Задание №7](https://github.com/Filyuchkova/filyuchkova.github.io/blob/master/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%E2%84%967.docx)
+
